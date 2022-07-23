@@ -1,0 +1,57 @@
+#diva{
+
+    width: auto;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.053);
+    align-items: center;
+   text-align: center;
+   
+
+}
+#divb{
+    width: auto;
+   height: fit-content;
+    background-color:	#ffffff;
+    border-top: 100px;
+   align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* box-center */
+#box-center{
+    width:40%;
+    margin:auto;
+    text-align: left;
+    margin-top: 2rem;
+    
+}
+#img-div{
+
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+ 
+
+li{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    display: list-item;
+    text-align: -webkit-match-parent;
+    margin-top: 15px;
+}
+
+
+/* common classes */
+.f-f-1{
+    font-family: sans-serif;
+}
+
